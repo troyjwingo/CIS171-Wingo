@@ -1,6 +1,6 @@
-# Project Title
+# 15.29 Race Car
 
-One Paragraph of project description goes here
+Moves a Racecar across the screen.
 
 ## Example Output
 
@@ -10,15 +10,17 @@ This image will display as your example output. Name the image README.jpg in you
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
-
+I first watched the moving fan code to get a basis of animation in javafx
+then I made the car polygon to fit the requirements
+I then made a basic program to just display the car.
+I then began to mess around with function that move the car without looping mechanisms
+then I began to form looping mechanisms and way to implement them.
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
+Only used one external class, didn't see the need to have any more than 1.
 
 ```
-Give examples
+I used an external class/methods to do all of the animation movement calculations.
 ```
 
 ### Testing
