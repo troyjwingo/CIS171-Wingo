@@ -10,38 +10,23 @@ This image will display as your example output. Name the image README.jpg in you
 
 ## Analysis Steps
 
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
+The Asiignment was: Write a program that sets the horizontal alignment and column-size properties of a text field dynamically.
+I spent a couple of hourse flipping throught previous chapter and made sure I had a grasp Listeners and Lambdas. I then watched the videos in the chapter and started to understand a bit more what the assignment was asking from me.
 
 ### Design
 
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
+THe design and organization of the project closely mirrors lessons taught through the video lessons. This is because I couldn't think of an easier way to organize the code.
 
 ### Testing
 
-A step by step series of examples that you developed to properly test the program. 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
+I first wanted to get the toggle function in the radio buttons to work, they were a bit buggy, but It was just syntactical errors.
+The second Challenge was to figure out the syntax for the parser in the setPrefColumnCount property. The rest was pretty straight forward.
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Notes
 
-Explain any issues or testing instructions.
+None Here :]
 
 ## Do not change content below this line
 ## Adapted from a README Built With
