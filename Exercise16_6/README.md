@@ -1,6 +1,6 @@
-# Project Title
+## Exercise16_6
 
-One Paragraph of project description goes here
+Allows a Text Field to be resized by another Text Field and aligned by Radio Buttons.
 
 ## Example Output
 
