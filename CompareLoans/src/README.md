@@ -1,47 +1,12 @@
-# Project Title
+# Week07 Assign: Exercise 16.13 Compare loans with various interest rates
 
-One Paragraph of project description goes here
+Your program should let the user enter the loan amount and loan period in the number of years from text fields, and it should display the monthly and total payments for each interest rate starting from 5 percent to 8 percent, with increments of one-eiht, in a text area.
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
+
 
 ![Sample Output](README.jpg)
-
-## Analysis Steps
-
-This section should restate the assignment and explain how you analyzed the requirements in order 
-to develop a solution.
-
-### Design
-
-How did you approach your program design? Did you use multiple classes to define various objects?
-
-```
-Give examples
-```
-
-### Testing
-
-A step by step series of examples that you developed to properly test the program. 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Notes
-
-Explain any issues or testing instructions.
 
 ## Do not change content below this line
 ## Adapted from a README Built With
