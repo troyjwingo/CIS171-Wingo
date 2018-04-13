@@ -1,6 +1,6 @@
-# Week11 Assign: Exercise 23.12 Radix Sort
+# Week11 Assign: Exercise 24.7 Animation: linked list
 
-Complete Exercise 23.12 in your book.  
+Complete Exercise 24.7 in your book.  
 
 ## Example Output
 
